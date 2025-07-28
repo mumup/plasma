@@ -1,0 +1,41 @@
+[
+    {
+        "inputs": [],
+        "name": "totalAllocation",
+        "outputs": [
+            {
+                "internalType": "Fixed6",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "totalBalance",
+        "outputs": [
+            {
+                "internalType": "Fixed6",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "totalReservedUsed",
+        "outputs": [
+            {
+                "internalType": "Fixed6",
+                "name": "",
+                "type": "uint256"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
